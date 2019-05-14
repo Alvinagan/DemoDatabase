@@ -1,0 +1,4 @@
+#Tue May 14 13:04:39 SGT 2019
+base.0=C\:\\C346\\Workspace\\DemoDatabase\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
